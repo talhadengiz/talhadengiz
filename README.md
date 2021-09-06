@@ -1,10 +1,6 @@
 <h1 align="center">Hi there👋, I'm Talha</h1>
 <h3 align="center">I'm a Mobile Application Developer | Android at Dreams&Bytes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhadengiz&label=Profile%20views&color=0e75b6&style=flat" alt="talhadengiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhadengiz" alt="talhadengiz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/talhadengiz" target="blank"><img src="https://img.shields.io/twitter/follow/talhadengiz?logo=twitter&style=for-the-badge" alt="talhadengiz" /></a> </p>
 
 - 📝 I regularly write articles on [https://talhadengiz.medium.com/](https://talhadengiz.medium.com/)
@@ -33,4 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhadengiz&show_icons=true&locale=en" alt="talhadengiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhadengiz&" alt="talhadengiz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhadengiz&label=Profile%20views&color=0e75b6&style=flat" alt="talhadengiz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhadengiz" alt="talhadengiz" /></a> </p>
 
