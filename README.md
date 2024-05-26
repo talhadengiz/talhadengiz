@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Talha</h1>
-<h3 align="center">I'm a Native Mobile Application Developer | Android at Ticimax</h3>
+<h3 align="center">I'm a Mobile Application Developer | Native Android & Flutter at Ticimax</h3>
 
 <!--<p align="left"> <a href="https://twitter.com/talhadengiz" target="blank"><img src="https://img.shields.io/twitter/follow/talhadengiz?logo=twitter&style=for-the-badge" alt="talhadengiz" /></a> </p>-->
 
